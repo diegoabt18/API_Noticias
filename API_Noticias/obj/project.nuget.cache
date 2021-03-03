@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "OQIVGhi8o+FyUz/wUeqtGQOm5NrqF3VhCS2WwVi3vM+sFSb9qmzRE5iSF7iIFw3BrbzO+17FpOB4qivipyJJpQ==",
+  "dgSpecHash": "xGy6wL4XXEEnAt7WE3Rw/ZGXcn5uaD7kV6GX5gPTNmAzhDp83NN/94g9iF7dbqVbLEsj1za/SGdrJCO0+zd6MQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Diego\\source\\repos\\API_Noticias\\API_Noticias\\API_Noticias.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diego\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Diego\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\Diego\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
     "C:\\Users\\Diego\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\Diego\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

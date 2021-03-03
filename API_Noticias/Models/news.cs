@@ -30,5 +30,9 @@ namespace API_Noticias.Models
             this.publishedAt = publishedAt;
             this.content = content;
         }
+
+        public news()
+        {
+        }
     }
 }

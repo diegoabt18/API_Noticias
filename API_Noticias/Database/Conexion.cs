@@ -24,15 +24,19 @@ namespace API_Noticias.Database
 
         public static Conexion SqlOpen()
         {
-            if (con != null)
+           
+            if (con == null)
             {
                 con = new Conexion();
             }
+            Console.WriteLine("esta es la con "+ con+" exion");
             return con;
         }
 
+     
+
         public void SqlClose(){
-            Sqlcon.Close();
+            con=null;
         }
     }
 }
